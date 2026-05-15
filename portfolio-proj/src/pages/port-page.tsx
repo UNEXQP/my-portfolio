@@ -39,7 +39,7 @@ const projects: Project[] = [
       "A simple E-commerce Application.",
     stack: ["React","Tailwind","zustand","tanstack query"],
     status: "building",
-    url: "#",
+    url: "https://e-commerce-upgrade.vercel.app/",
   }
   // {
   //   name: "ZELUX",
